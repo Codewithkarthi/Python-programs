@@ -16,7 +16,7 @@ combinations_result = [''.join(combination) for combination in combinations_list
 print(combinations_result)
 
 #method(2)
-#simple method of combinating in python.
+#simple method of combinating letters in python.
 
 from itertools import permutations
 
