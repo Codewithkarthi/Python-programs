@@ -32,3 +32,10 @@ num2 = temp
 #Output
 print('The value of num1 after swapping: {}'.format(num1))
 print('The value of num2 after swapping: {}'.format(num2))
+
+#swapping of numbers without using third variable
+a=a+b;
+b=a-b;
+a=a-b;
+print(a)
+print(b)
