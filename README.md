@@ -1,4 +1,4 @@
-#  Simple python logical Programs 
+#  Simple python logical Programs and some own problems I tried.
 
 # I practice doing python in:
 www.pycharm.com
