@@ -1,4 +1,4 @@
- #Generate a secret number under 10 and take a guess. Win with the right number or try again for the ultimate gaming fun.
+#Generate a secret number under 10 and take a guess. Win with the right number or try again for the ultimate gaming fun.
 
 import random
 
