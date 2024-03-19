@@ -1,4 +1,4 @@
-#question: Input a paragraph, and let Python find letter count, word count, and repeated words with their counts
+#Input a paragraph, and let Python find letter count, word count, and repeated words with their counts
 
 # Letter count
 letter_count = len(paragraph.replace(" ", ""))
