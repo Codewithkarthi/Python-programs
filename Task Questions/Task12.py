@@ -1,4 +1,4 @@
-#question: pulling into the station! Input your train carriage size, and let Python work its magic, revealing positions s1 to s5 on the platform.
+#pulling into the station! Input your train carriage size, and let Python work its magic, revealing positions s1 to s5 on the platform.
 
 
 
